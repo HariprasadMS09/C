@@ -1,0 +1,6 @@
+| Name                 | Course          | CGPA  |
+| jkkkkk               | ee              | 4.00  |
+| frff                 | r               | 4.00  |
+| cf                   | t               | 5.00  |
+| ffff                 | ffdd            | 4.00  |
+| ffff                 | yyy             | 6.00  |
